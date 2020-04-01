@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You're never too old to learn new things!
 Use the left arrow to go back!
